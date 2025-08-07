@@ -14,10 +14,6 @@
 
 ## 🎯 About Me
 
-<table align="center" style="border: none;">
-  <tr>
-    <td style="width: 60%; vertical-align: top; padding: 20px;">
-
 ```javascript
 const abhishek = {
     role: "Full Stack Developer & Competitive Programmer",
@@ -43,15 +39,6 @@ const abhishek = {
 - 🤝 **Collaboration**: Always open to building something awesome together
 - 🦖 **Destroyer Mode**: Breaking limitations, building empires
 
-</td>
-    <td style="width: 40%; vertical-align: center; text-align: center; padding: 20px;">
-      <video width="100%" src="https://github.com/user-attachments/assets/4580dbf4-3bc5-49f6-b08a-bff6dfff109d" autoplay loop muted playsinline style="border-radius: 15px; border: 3px solid #00d9ff; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);"></video>
-      <br><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF6B35&center=true&vCenter=true&width=300&lines=🦖+DESTROYER+MODE+ON;💥+CRUSHING+BUGS+DAILY;🔥+BUILDING+DIGITAL+EMPIRES" alt="Godzilla Mode" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -72,24 +59,33 @@ const abhishek = {
 
 ## 🏆 Competitive Programming
 
-<div align="center">
-  
-### **Crushing Problems On:**
+<table align="center" style="border: none;">
+  <tr>
+    <td style="width: 60%; vertical-align: top; padding: 20px;">
 
-<a href="https://www.leetcode.com/AbhishekPrajapatt" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://codeforces.com/profile/abhishekprajapati2006" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<a href="https://www.hackerrank.com/prajapatiabhish6" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/abhishekprajapatt2006" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
+### **🎯 Crushing Problems On:**
 
-</div>
+| **🔥 Problem Solving** | **⚡ Contest Platforms** |
+|:---:|:---:|
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/AbhishekPrajapatt) | [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abhishekprajapati2006) |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prajapatiabhish6) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishekprajapatt2006) |
+
+**💻 Coding Arsenal:**
+- 🎯 **Daily Practice**: Algorithm solving & data structures
+- 🔥 **Specialty**: Dynamic Programming, Graph Theory, Trees
+- ⚡ **Languages Used**: C++, Java, Python for competitive coding
+- 🏆 **Current Goal**: Master advanced algorithms & achieve high ratings
+- 💪 **Problem Crusher**: Solving 100+ problems monthly
+- 🧠 **Algorithm Destroyer**: Breaking complex problems into simple logic
+
+</td>
+    <td style="width: 40%; vertical-align: center; text-align: center; padding: 20px;">
+      <video width="100%" src="https://github.com/user-attachments/assets/4580dbf4-3bc5-49f6-b08a-bff6dfff109d" autoplay loop muted playsinline style="border-radius: 15px; border: 3px solid #FFA116; box-shadow: 0 0 20px rgba(255, 161, 22, 0.3);"></video>
+      <br><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFA116&center=true&vCenter=true&width=300&lines=🔥+ALGORITHM+DESTROYER;💪+PROBLEM+CRUSHER;⚡+CODE+WARRIOR;🦖+GODZILLA+CODER" alt="Competitive Programming" />
+    </td>
+  </tr>
+</table>
 
 ---
 
