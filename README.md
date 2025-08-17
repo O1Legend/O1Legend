@@ -73,7 +73,7 @@ const abhishek = {
 **💻 Coding Arsenal:**
 - 🎯 **Daily Practice**: Algorithm solving & data structures
 - 🔥 **Specialty**: Dynamic Programming, Graph Theory, Trees
-- ⚡ **Languages Used**: C++, Java, Python for competitive coding
+- ⚡ **Languages Used**: C++, Java for competitive coding
 - 🏆 **Current Goal**: Master advanced algorithms & achieve high ratings
 - 💪 **Problem Crusher**: Solving 100+ problems monthly
 - 🧠 **Algorithm Destroyer**: Breaking complex problems into simple logic
