@@ -1,4 +1,4 @@
-# 🚀 Abhishek Prajapatt
+<!-- # 🚀 Abhishek Prajapatt
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Code+Crusher+%26+Bug+Destroyer;System+Builder+%26+Logic+Master" alt="Typing SVG" />
@@ -56,7 +56,7 @@ const abhishek = {
 |  | ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) |  |  |  |  |
 
 ---
-
+-->
 ## 🏆 Competitive Programming
 
 <table align="center" style="border: none;">
@@ -95,15 +95,14 @@ const abhishek = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekprajapatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekprajapatt&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekprajapatt&theme=tokyonight" alt="streak stats"/>
-</div>
-
+</div> -->
+<!--
 ### **📈 Contribution Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekprajapatt&theme=tokyo-night&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
-
----
+-->
 
 ## 🐍 Contribution Snake
 
@@ -116,7 +115,7 @@ const abhishek = {
 </div>
 
 ---
-
+<!--
 ## 🎯 Current Focus
 
 ```yaml
@@ -135,7 +134,7 @@ Projects:
 ```
 
 ---
-
+<!--
 ## 📫 Connect With Me
 
 <div align="center">
