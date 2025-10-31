@@ -36,13 +36,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=O1Legend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=O1Legend&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/O1Legend/O1Legend/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/O1Legend/O1Legend/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/O1Legend/O1Legend/blob/output/github-snake.svg" />
-  </picture>
-</div>
